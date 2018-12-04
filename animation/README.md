@@ -1,6 +1,9 @@
+
 This assignment has been done by 
 
 pawan Singh Negi pawan2713@gmail.com 
+
+The overall aim of this entire assignment is to create a short film with the music box lying closed in a room. The animation will show the music box open, and two figures that dance to a tune will pop out and move to the music. Finally, the box will close again. You will create all the models, create the scene with other elements, add lighting and texture, script the animation, add music and then generate the movie. In this part of the assignment we, create two character models and a box. You are free to be as creative as you want in making your character models, in the scence that you create finally and the animation that you prdouce. 
 
 We declare that this assignment has been done by our own ideas
 and has not been copied from some where else. Any code snippet
